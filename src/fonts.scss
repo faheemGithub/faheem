@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Calibre';
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+    unicode-range: U+000-5FF;
+    src: local('Calibre'),
+        url('assets/fonts/montserrat/Montserrat-MediumItalic.woff2') format('woff2'),
+        url('assets/fonts/montserrat/Montserrat-MediumItalic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Calibre';
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+    unicode-range: U+000-5FF;
+    src: local('Calibre'),
+        url('assets/fonts/montserrat/Montserrat-SemiBoldItalic.woff2') format('woff2'),
+        url('assets/fonts/montserrat/Montserrat-SemiBoldItalic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Calibre';
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+000-5FF;
+    src: local('Calibre'),
+        url('assets/fonts/montserrat/Montserrat-Regular.woff2') format('woff2'),
+        url('assets/fonts/montserrat/Montserrat-Regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Calibre';
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+000-5FF;
+    src: local('Calibre'),
+        url('assets/fonts/montserrat/Montserrat-Medium.woff2') format('woff2'),
+        url('assets/fonts/montserrat/Montserrat-Medium.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Calibre';
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+000-5FF;
+    src: local('Calibre'),
+        url('assets/fonts/montserrat/Montserrat-SemiBold.woff2') format('woff2'),
+        url('assets/fonts/montserrat/Montserrat-SemiBold.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Calibre';
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+    unicode-range: U+000-5FF;
+    src: local('Calibre'),
+        url('assets/fonts/Calibre/Calibre-RegularItalic.woff2') format('woff2'),
+        url('assets/fonts/Calibre/Calibre-RegularItalic.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Calibre';
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+    unicode-range: U+000-5FF;
+    src: local('Calibre'),
+        url('assets/fonts/montserrat/Montserrat-Light.woff2') format('woff2'),
+        url('assets/fonts/montserrat/Montserrat-Light.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'Calibre';
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+    unicode-range: U+000-5FF;
+    src: local('Calibre'),
+        url('assets/fonts/montserrat/Montserrat-LightItalic.woff2') format('woff2'),
+        url('assets/fonts/montserrat/Montserrat-LightItalic.woff') format('woff');
+}
+
+/////////////////////////////
+
+// @font-face {
+//     font-family: 'SF Mono';
+//     font-weight: normal;
+//     font-style: normal;
+//     font-display: swap;
+//     unicode-range: U+000-5FF;
+//     src: local('SF Mono'),
+//         url('assets/fonts/SFMono/SFMono-Regular.woff2') format('woff2'),
+//         url('assets/fonts/SFMono/SFMono-Regular.woff') format('woff');
+// }
+
+// @font-face {
+//     font-family: 'SF Mono';
+//     font-weight: 600;
+//     font-style: italic;
+//     font-display: swap;
+//     unicode-range: U+000-5FF;
+//     src: local('SF Mono'),
+//         url('assets/fonts/SFMono/SFMono-SemiboldItalic.woff2') format('woff2'),
+//         url('assets/fonts/SFMono/SFMono-SemiboldItalic.woff') format('woff');
+// }
+
+// @font-face {
+//     font-family: 'SF Mono';
+//     font-weight: 500;
+//     font-style: italic;
+//     font-display: swap;
+//     unicode-range: U+000-5FF;
+//     src: local('SF Mono'),
+//         url('assets/fonts/SFMono/SFMono-MediumItalic.woff2') format('woff2'),
+//         url('assets/fonts/SFMono/SFMono-MediumItalic.woff') format('woff');
+// }
+
+// @font-face {
+//     font-family: 'SF Mono';
+//     font-weight: normal;
+//     font-style: italic;
+//     font-display: swap;
+//     unicode-range: U+000-5FF;
+//     src: local('SF Mono'),
+//         url('assets/fonts/SFMono/SFMono-RegularItalic.woff2') format('woff2'),
+//         url('assets/fonts/SFMono/SFMono-RegularItalic.woff') format('woff');
+// }
+
+// @font-face {
+//     font-family: 'SF Mono';
+//     font-weight: 500;
+//     font-style: normal;
+//     font-display: swap;
+//     unicode-range: U+000-5FF;
+//     src: local('SF Mono'),
+//         url('assets/fonts/SFMono/SFMono-Medium.woff2') format('woff2'),
+//         url('assets/fonts/SFMono/SFMono-Medium.woff') format('woff');
+// }
+
+// @font-face {
+//     font-family: 'SF Mono';
+//     font-weight: 600;
+//     font-style: normal;
+//     font-display: swap;
+//     unicode-range: U+000-5FF;
+//     src: local('SF Mono'),
+//         url('assets/fonts/SFMono/SFMono-Semibold.woff2') format('woff2'),
+//         url('assets/fonts/SFMono/SFMono-Semibold.woff') format('woff');
+// }
