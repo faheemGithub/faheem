@@ -1,0 +1,108 @@
+{
+    "Header.Item1": "Experience",
+    "Header.Item2": "About me",
+    "Header.Item3": "Projects",
+    "Header.Item4": "Contact",
+    "Header.cvBtn": "Resume",
+    "Header.cvName": "faheemmdcvv.pdf",
+    "Banner.Pretitle": "Hello! My name is",
+    "Banner.Description": "Welcome to my portfolio! I'm a highly skilled Angular Developer with a proven track record of delivering cutting-edge web applications. With 2 years of experience, I specialize in creating responsive and interactive user interfaces using Angular. My passion for web development drives me to stay at the forefront of industry trends and best practices.",
+    "Banner.ActionBtn": "Get in touch",
+    "AboutMe.Title": "About my Experience",
+    "AboutMe.Paragraphs": [
+        "With 2 years of experience as a developer, I seek to train every day. I've excelled at managing multiple projects while upholding high code standards. I'm skilled at setting clear plans and goals, improving time management, and contributing effectively to my team's success.",
+        "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
+        "Some of the technologies that I have trained and worked on:"
+    ],
+    "Experience.Title": "Experience",
+    "Experience.Jobs": [
+        {
+            "Tab": "Emblem",
+            "Title": "Fullstack developer",
+            "Date": "March 2022 - Present",
+            "Description": [
+                "Developed and maintained a web-based application using Angular, Node.js, and MongoDB, resulting in improved user experience and increased performance.",
+                "Designed and implemented RESTful APIs to support multiple applications, using Node.js and Express.",
+                "Built a real-time chat application using WebSockets and Node.js, increasing communication and collaboration among team members.",
+                "Implementation of continuous integration and daily backups.",
+                "Leading a team of 4 people in the development of a E-commerce platform made in React, Node, and MySQL.",
+                "Planning meetings in reports."
+            ]
+        },
+        {
+            "Tab": "BCM",
+            "Title": "Frontend developer",
+            "Date": "October 2020 - Feburary 2022",
+            "Description": [
+                "Developed and maintained web applications using Angular and React.",
+                "Implementation CI / CD in AWS. Refactoring and optimizing application load times.",
+                "Coding of API requests with RxJS.",
+                "Creation of modules with complex reactive forms",
+                "Improved website performance by optimizing images and implementing caching techniques.",
+                "Collaborated with designers and back-end developers to create responsive and user-friendly web experiences"
+            ]
+        },
+        {
+            "Tab": "Freelancer",
+            "Title": "Independent",
+            "Date": "March 2020 - Present",
+            "Description": [
+                "Implementing continuous improvements, working on frontend and backend.",
+                "Creating platforms with Angular, Nodejs, ExpressJS, WordPress programmed with functional, reactive, and object-oriented programming paradigms.",
+                "Automation of processes with data structures.",
+                "Design layout with SASS, Bootstrap, Materialize, Prime Faces, etc."
+            ]
+        }
+    ],
+    "FeatureProjects.Title": "Projects that I've worked on",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [
+        {
+            "Title": "Archiflo",
+            "Description": "Archiflo is a centralized platform connecting vendors, manufacturers, architects, and designers. It offers a wide array of textures and materials, simplifying the sourcing process. Archiflo serves as a one-stop hub, facilitating collaboration and providing easy access to diverse resources for seamless integration into architectural and design projects.",
+            "imgs": [
+                "assets/images/mazhr/archiflo1.png",
+                "assets/images/mazhr/archiflo2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SCSS",
+                "PrimeNG",
+                "NodeJS"
+            ]
+        },
+        {
+            "Title": "brudata.ai",
+            "Description": "Brudata is an advanced test data management solution that automates data generation, prioritizes privacy, and enhances testing efficiency. With its cutting-edge features, Brudata revolutionizes the way organizations handle test data, ensuring accurate and secure testing processes..",
+            "imgs": [
+                "assets/images/mazhr/brudata2.png",
+                "assets/images/mazhr/brudata1.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SCSS",
+                "PrimeNG",
+                "NodeJS",
+                "Python"
+            ]
+        },
+        {
+            "Title": " SME Connect",
+            "Description": "SME Connect is a powerful networking platform designed to empower small to medium-sized enterprises (SMEs). It provides a collaborative space for SMEs to connect with like-minded partners, access new markets, and discover fresh business opportunities. With AI-powered features and cloud-based technology, SME Connect offers valuable tools,knowledge, and resources to support SME growth and success",
+            "imgs": [
+                "assets/images/mazhr/sme1.png",
+                "assets/images/mazhr/sme2.png"
+            ],
+            "Technologies": [
+                "Angular",
+                "SCSS",
+                "PrimeNG",
+                "Java"
+            ]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+}
